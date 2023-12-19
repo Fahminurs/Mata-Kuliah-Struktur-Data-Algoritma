@@ -24,6 +24,24 @@
 <h1 align="left">Preview</h1>
 
 <h1 align="left">Instalasi</h1>
+<p>Untuk mencoba/menggunakan program bisa mengikuti 2 instalasi berikut: </p>  
+<h3> Instalasi Program menggunakan Code Block </h3>
+<ol type ="1" >
+  <li>Siapkan bahan 'Mysql Conector C++' yang diperlukan, bisa download di link ini, https://drive.google.com/file/d/10pOw7OhEr_hVvx2VaasGNgiEFROw5C9-/view?usp=sharing </li> <br>
+  <li>Extrak 'MySQL.rar' dan pindahkan folder 'MySQL' ke `bash " C:\Program Files " , sehingga menjadi 'MySQL\MySQL Server 8.2'  </li> <br>
+  <li>Extrak file github '.zip' yand sudah didownload di repository 'Perbandingan_Algoritma' </li> <br>
+  <li>Buka Code Block , dan tekan 'CTRL+O', pilih 'main.cpp' &  'uas_perpus.cbp'</li> <br>
+  <li>Jangan di Run Terlebih dahulu sebelum mengkonfigurasi Database (Ikuti langkah Instalasi Database)</li> <br>
+  <li>Setelah Database di pasang, silahkan jalankan program pada Code Block</li> <br>
+
+</ol>
+<h3> Instalasi Database </h3>
+<ol type ="1" >
+  <li>Siapkan Xaamp atau yang lainnya, yang sudah diinstal Mysql</li> <br>
+  <li>Siapkandatabase '.sql' yang bisa didownload pada link ini, https://drive.google.com/file/d/1U58UPwHkzypnZJoJwUJff8R-fSK6fVia/view?usp=sharing </li> <br>
+  <li>Eksport database 'perpustakaan_str', pastikan nama di database sama yaitu 'perpustakaan_str' </li> <br>
+  <li>Pada Instalasi Database Selesai... (Kembali lagi ke langkah Instalasi Program menggunakan Code Block )</li> <br>
+</ol>
 
 
 <h3 align="left">Bahasa Pemrograman yang digunakan:</h3>
