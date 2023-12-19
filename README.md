@@ -34,7 +34,7 @@ Selamat datang di repositori Mata Kuliah Struktur Data & Algoritma kami! Di sini
   <li>Siapkan Xaamp atau yang lainnya, yang sudah diinstal Mysql</li> <br>
   <li>Siapkandatabase '.sql' yang bisa didownload pada link ini, https://drive.google.com/file/d/1U58UPwHkzypnZJoJwUJff8R-fSK6fVia/view?usp=sharing </li> <br>
   <li>Eksport database 'perpustakaan_str', pastikan nama di database sama yaitu 'perpustakaan_str' </li> <br>
-  <li>Pada Instalasi Database Selesai... (Kembali lagi ke langkah Instalasi Program menggunakan Code Block )</li> <br>
+  <li>Instalasi Database Selesai... (Kembali lagi ke langkah Instalasi Program menggunakan Code Block )</li> <br>
 </ol>
 
 
