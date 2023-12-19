@@ -8,9 +8,10 @@
 <p>Anggota Kelompok</p>
 
 <ul>
-  <li>Fahmi Nursafaat </li>
-  <li>Davi Hanan </li>
-  <li>ssssss</li>
+  <li>Fahmi Nursafaat (2210328) [Leader] </li>
+  <li>Davi Hanan (2205152	) </li>
+  <li>Dina Hanifah (2205423) </li>
+  <li>Khalisha Rahman (2202891) </li>
 </ul>
 
 <h3 align="center">Perbandingan Algoritma sorting</h3>
