@@ -1,6 +1,7 @@
 # Perbandingan_Algoritma
-[Mata Kuliah Struktur Data &amp; Algoritma] Perbandingan Algoritma sorting (Bubble sort, Insertion sort, Selection sort) dan search (Binary search, Squensial search), menggunakan database Mysql, dan bahasa pemrograman C++
+[Mata Kuliah Struktur Data & Algoritma] 🚀 Explore Perbandingan Algoritma Sorting dan Searching!
 
+Selamat datang di repositori Mata Kuliah Struktur Data & Algoritma kami! Di sini, kami menghadirkan perbandingan performa beberapa algoritma sorting (Bubble Sort, Insertion Sort, Selection Sort) dan searching (Binary Search, Sequential Search). Kami mengimplementasikan algoritma-algoritma ini menggunakan database MySQL untuk meningkatkan efisiensi dan mengintegrasikannya dengan bahasa pemrograman C++.
 
 
 
