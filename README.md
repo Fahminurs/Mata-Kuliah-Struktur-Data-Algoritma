@@ -9,7 +9,7 @@ Selamat datang di repositori Mata Kuliah Struktur Data & Algoritma kami! Di sini
 <p>Anggota Kelompok</p>
 
 <ul>
-  <li>Fahmi Nursafaat (2210328) [Leader] </li>
+  <li>Fahmi Nursafaat (2210328) </li>
   <li>Davi Hanan (2205152	) </li>
   <li>Dina Hanifah (2205423) </li>
   <li>Khalisha Rahman (2202891) </li>
