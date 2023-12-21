@@ -5,7 +5,7 @@ Selamat datang di repositori Mata Kuliah Struktur Data & Algoritma kami! Di sini
 
 
 
-<h1 align="center">Hi 👋, Hi, we are a group from the Indonesian University of Education (UPI)</h1>
+<h1 align="center">Hi 👋, We are the structure and algorithm course group from the Indonesian Education University (UPI) (UPI)</h1>
 <p>Anggota Kelompok</p>
 
 <ul>
