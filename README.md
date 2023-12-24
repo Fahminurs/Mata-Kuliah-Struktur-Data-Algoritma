@@ -17,6 +17,16 @@ Selamat datang di repositori Mata Kuliah Struktur Data & Algoritma kami! Di sini
 
 <h1 align="left">Preview</h1>
 
+<div style="display:flex;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/raw/main/Preview/Depan.png" alt="Depan.png" width="500" style="float:left; margin-right:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/raw/main/Preview/Registrasi.png" alt="Registrasi.png" width="500" style="float:right; margin-left:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/blob/main/Preview/Login.png" alt="Login.png" width="500" style="float:right; margin-left:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/blob/main/Preview/Menu.png" alt="Menu.png" width="500" style="float:right; margin-left:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/blob/main/Preview/Mengurutkan_Buku.png" alt="Mengurutkan_Buku.png" width="500" style="float:right; margin-left:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/blob/main/Preview/Mencari_Buku.png" alt="Mencari_Buku.png" width="500" style="float:right; margin-left:10px;">
+  <img src="https://github.com/Fahminurs/Mata-Kuliah-Struktur-Data-Algoritma/blob/main/Preview/Hasil_mencari_buku.png" alt="Hasil_mencari_buku.png" width="500" style="float:right; margin-left:10px;">
+</div>
+
 <h1 align="left">Instalasi</h1>
 <p>Untuk mencoba/menggunakan program bisa mengikuti 2 instalasi berikut: </p>  
 <h3> Instalasi Program menggunakan Code Block </h3>
